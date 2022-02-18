@@ -8,3 +8,5 @@ This repository is built step by step in the tutorial.
 Learning how GitHub works.
 
 This is really exiting. Looking forwared to learning more of GitHub.
+
+New line added after creating branch locally.
